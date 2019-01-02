@@ -6,4 +6,4 @@ HI
    - TESTING BUILD WITH TAGS/BRANCH (CHOICE PARAMETER)
    - Added to test PULL
    - adding from git UI
-    - adding from cli 
+   - adding from cli 
