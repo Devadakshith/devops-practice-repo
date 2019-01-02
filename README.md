@@ -9,3 +9,4 @@ HI
    - adding from cli 
    - hi 
    - PR
+   - NEW LINE
